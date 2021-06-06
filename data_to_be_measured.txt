@@ -1,0 +1,22 @@
+Measurement interval in all cities is 15 minutes, while the number of measurements during the day and night varies. Some cities in the reports of a systematic measurement noise have data on two measurements during a day (6-18h), one during the evening (18-22h) and two during the night (22-6h), while some reports have data about a day and night measurements noise.
+Numeric values that are shown in the reports are:
+ 1. the value of daily noise indicators (Lday) in the
+environment;
+ 2. the value of the indicator evening noise (Levening) in
+the environment;
+ 3. the value of the indicator nighttime noise (Lnight) in
+the environment;
+ 4. the value of the total noise indicators (Lden) in the
+environment;
+ 5. percentage of the population endangered by noise
+(A%) of road traffic during the day and during the
+night and the percentage of the population highly
+vulnerable to noise (NA%) (comparing to the
+determined value of Lden at measuring points) - Novi
+Sad;
+ 6. the recorded values of the equivalent noise level
+(LAeq);
+7.  the permissible noise level;
+ 8. average noise level (day, evening, night) – Kraljevo;
+ 9. the established value of the frequency for a fixed
+maximum equivalent noise level - Novi Sad. 
